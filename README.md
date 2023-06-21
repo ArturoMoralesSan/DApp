@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `npm i -g truffle`
+
+### `truffle init`
+
+### `truffle compile`
+
+### `truffle migrate`
+
+### `truffle deploy`
+
+
+
 In the project directory, you can run:
 
 ### `npm start`
